@@ -1,6 +1,14 @@
 
 export const OrthographyPage = () => {
   return (
-    <h1>OrthographyPage</h1>
+    <div className="chat-container">
+      <div className="chat-messages">
+        <div className="grid grid-cols-12 gap-y-2">
+          
+          {/* Bienvenida */}
+
+        </div>
+      </div>
+    </div>
   )
 }
